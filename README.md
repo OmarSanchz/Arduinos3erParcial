@@ -1,6 +1,7 @@
 # Arduinos3erParcial
+---
 Código 1: Control de un display de 7 segmentos con números aleatorios
--
+----
 Explicación detallada:
 Este código controla un display de 7 segmentos, un componente común en electrónica que permite mostrar números del 0 al 9. Utiliza un pulsador para alternar entre dos estados: la generación continua de números aleatorios y la pausa para mostrar un único número.
 Estructura y funcionamiento:
@@ -17,6 +18,7 @@ Dependiendo del número generado, los segmentos correspondientes se activan medi
 Usos prácticos:
 Simulación de un dado electrónico.
 Aplicaciones educativas para enseñar conceptos básicos de electrónica digital y control de displays.
+---
 Código 2: Control de LEDs con un joystick analógico
 -
 Explicación detallada:
@@ -39,6 +41,7 @@ Se imprimen los valores de los ejes X, Y y el estado del botón en el monitor se
 Usos prácticos:
 Interfaz de control para robots o dispositivos electrónicos.
 Entrenamiento práctico en el uso de sensores analógicos.
+--
 Código 3: Teclado matricial para ingresar contraseñas
 -
 Explicación detallada:
@@ -61,8 +64,9 @@ Se enciende el LED rojo por 2 segundos.
 Usos prácticos:
 Sistemas básicos de control de acceso.
 Simulación de dispositivos de seguridad.
+--
 Código 4: Control de un LED RGB con botones
--
+--
 Explicación detallada:
 Este código controla un LED RGB utilizando tres botones. Cada botón activa un color primario: rojo, verde o azul.
 Estructura y funcionamiento:
@@ -75,8 +79,9 @@ Según el botón presionado, la función encenderColor() establece los valores d
 Usos prácticos:
 Control básico de iluminación decorativa.
 Aprendizaje de LEDs RGB y mezcla de colores.
+--
 Código 5: Sistema con sensor ultrasónico y servomotor
--
+--
 Explicación detallada:
 Este código utiliza un sensor ultrasónico para detectar la proximidad de un objeto y controla un servomotor que simula abrir y cerrar una puerta.
 Estructura y funcionamiento:
@@ -90,8 +95,9 @@ Después de 3 segundos, el servomotor cierra la puerta y se enciende un LED rojo
 Usos prácticos:
 Simulación de puertas automáticas.
 Aplicaciones en sistemas de acceso sin contacto.
+--
 Código 6: Control de una puerta con servomotor
--
+--
 Explicación detallada:
 Este código simula un sistema de control de una puerta que se abre y cierra gradualmente utilizando un servomotor.
 Estructura y funcionamiento:
